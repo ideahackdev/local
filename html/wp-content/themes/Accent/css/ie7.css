@@ -1,0 +1,30 @@
+.kwicks_title, .kwicks_title_large
+{
+	margin-left: -50%;
+}
+
+.tagline
+{
+	margin-top: -175px;
+}
+
+#jquery_slider li .right_content
+{
+	margin-top: 10px;
+}
+
+#header_pattern
+{
+	display: none;
+}
+
+body.home #content_wrapper
+{
+	margin-top: 20px;
+}
+
+#content_wrapper
+{
+	margin-top: 90px;
+	padding-top: 10px;
+}
